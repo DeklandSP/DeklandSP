@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeklandSP
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing right now
+- 👋 Hi, I’m @DeklandSP.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning java.
+- 💞️ not looking to collab on anything currently.
 - 📫 How to reach me (not currently available)
 
 <!---
