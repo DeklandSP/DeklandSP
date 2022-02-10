@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeklandSP.
-- 👀 I’m interested in Java, C#, HTML, CSS, JavaScript, and Software development as a whole.
-- 🌱 I’m currently learning Java, C#, MVC, and AWS.
+- 👀 I’m interested in Java, C#, and Software development as a whole.
+- 🌱 I’m currently learning Java, C#, and MVC.
 - 💞️ Currently collaborating on a website project with @LewisTraynor and @Sinnaria.
 - 📫 I'm not contactable at this moment of time.
 <!---
