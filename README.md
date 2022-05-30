@@ -1,6 +1,6 @@
-- 👀 My main interests are Java, C#, and basically all of software development.
-- 🌱 I’m currently learning Java, C#, MVC, and Java Spring.
-- 📌 Currently working on small game project using the godot engine.
+- 👀 My main interests are Rust, Python, C#, and all of software development.
+- 🌱 I’m currently learning C#, Python, Rust, JavaScript.
+- 📌 Currently working on Rust-The Book.
 - 💞️ Currently collaborating on a website project with @LewisTraynor and @Sinnaria.
 - 📫 Feel free to send me messages for help or collaboration efforts always happy to learn and help!!!
 <!---
