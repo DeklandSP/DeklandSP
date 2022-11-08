@@ -1,7 +1,7 @@
-- 👀 My main interests are Rust, Python, C#, and all of software development.
-- 🌱 I’m currently learning C#, Python, Rust, JavaScript.
-- 📌 Currently working on Rust-The Book.
-- 💞️ Currently collaborating on a website project with @LewisTraynor and @Sinnaria.
+- 👀 My main interests are Java, C#, Python, SQL.
+- 🌱 I’m currently learning Python, C#, Java. 
+- 📌 Currently working on improving problem solving ability.
+- 💞️ Currently collaborating on nothing so far.
 - 📫 Feel free to send me messages for help or collaboration efforts always happy to learn and help!!!
 <!---
 DeklandSP/DeklandSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
