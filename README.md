@@ -1,6 +1,6 @@
 - 👀 My main interests are Java, C#, Python, SQL.
 - 🌱 I’m currently learning Python, C#, Java. 
-- 📌 Currently working on improving problem solving ability.
+- 📌 continuously working on improving my development abilities.
 - 💞️ Currently collaborating on nothing so far.
 - 📫 Feel free to send me messages for help or collaboration efforts always happy to learn and help!!!
 <!---
