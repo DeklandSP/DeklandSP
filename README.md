@@ -2,7 +2,8 @@
 <br>
 <p align="center">
   Hi! I'm DeklandSP, a misnomer of my name. I'm a software engineer that loves to create whatever is of interest to me.
-  <br /> My own website is <a href="https://github.com/DeklandSP" target="_blank">declan-mccormack.com</a>, still a WIP, which will contain my blog, and just anything I want to talk about/share! 𐔌՞. .՞𐦯
+  <br /> My own website is <a href="https://github.com/DeklandSP" target="_blank">declan-mccormack.com</a>, still a WIP, which will contain my blog, and just anything I want to share! 𐔌՞. .՞𐦯
+  <br /> <img href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZqbXlmNnRjMnVwcnZhYmM5bzFpM2hxYzZ2aWthdHJ5cWcxOWRrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/32McaxRxhMAJOQxQGG/giphy.gif" width="3%">I'm a big fan of retro computer aesthetic, can you tell? <img href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZqbXlmNnRjMnVwcnZhYmM5bzFpM2hxYzZ2aWthdHJ5cWcxOWRrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/32McaxRxhMAJOQxQGG/giphy.gif" width="3%">
 </p>
 <br>
 
