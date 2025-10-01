@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  My working stack is: Java, Groovy, Spring framework(s), Spock, Maven, OracleDB. Outside of work I use whatever I find useful/fitting to what I wanna work on.
+  My working stack is: Java, Groovy, Spring framework(s), Spock, Maven, OracleDB.<br /> Outside of work I use whatever I find useful/fitting to what I wanna work on.
 </p>
 
 <p align="center">
